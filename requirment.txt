@@ -1,0 +1,3 @@
+Numpy
+Tensor flow
+Flask
